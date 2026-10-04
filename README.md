@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="3D Studio Apartment Design" width="100%"/>
+<img src="./header.png" alt="3D Studio Apartment Design" width="100%"/>
 
 <br>
 
@@ -122,7 +122,7 @@ Flat Roof
 
 🧊 3D Visualization
 
-The 3D model provides a clearer understanding of the apartment's spatial arrangement and interior design.
+The 3D model provides a clear view of the apartment's spatial arrangement and interior design.
 
 Included Elements
 
