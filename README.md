@@ -1,18 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:6C63FF&height=220&section=header&text=3D%20Studio%20Apartment&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Design%20%26%203D%20Visualization&descAlignY=60&descSize=18" width="100%"/>
+<img src="./assets/header.svg" alt="3D Studio Apartment Design" width="100%"/>
 
 <br>
 
-🏠 Design of a Single Studio Apartment
+🏠 Single Studio Apartment Design
 
 Designed Using 2D Floor Planning & 3D Visualization
 
 <br>
 
 <img src="https://img.shields.io/badge/👩‍🏫%20Faculty-Nishat%20Tasnim-F59E0B?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/👤%20Student-S.M.%20Tanzim%20Hassan-243B55?style=for-the-badge&logoColor=white">
 <br><br>
+
+<img src="https://img.shields.io/badge/👤%20Student-S.M.%20Tanzim%20Hassan-243B55?style=for-the-badge&logoColor=white">
+
+<br><br>
+
 <img src="https://img.shields.io/badge/📐%20Course-CSE200-00B4D8?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/🏠%203D%20Visualization-Studio%20Apartment-0891B2?style=for-the-badge&logoColor=white">
 
